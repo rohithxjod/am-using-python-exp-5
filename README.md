@@ -31,11 +31,11 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 ```
 import numpy as np
 import matplotlib.pyplot as plt
-Am=4.5
-fm=374
-Ac=9.0
-fc=3740
-fs=37400
+Am=5.3
+fm=457
+Ac=10.6
+fc=4570
+fs=45700
 t=np.arange(0,2/fm,1/fs)
 m = np.cos(2 * np.pi * fm * t)
 c=np.cos(2*np.pi*fc*t)
@@ -55,16 +55,10 @@ plt.plot(t,s)
 ```
 
 ## Output Waveform
-
-<img width="693" height="516" alt="image" src="https://github.com/user-attachments/assets/957d74ad-929d-4bd9-94c3-770b8fa9efb6" />
-
-
-
-
+<img width="677" height="506" alt="image" src="https://github.com/user-attachments/assets/c5a31828-7e58-4595-8bf4-745bd12d52e3" />
 
 ## Tabular Column
 
-![WhatsApp Image 2025-11-29 at 08 24 28_8f31838d](https://github.com/user-attachments/assets/ac9eeb59-3d4a-483e-8ebd-941c3508b811)
 
 
 
