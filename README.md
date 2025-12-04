@@ -59,7 +59,8 @@ plt.plot(t,s)
 
 ## Tabular Column
 
-![5 ac](https://github.com/user-attachments/assets/777647f9-6f7e-4be0-8a30-a9ffdfb16d7b)
+![5 ac](https://github.com/user-attachments/assets/61c8568f-f659-48a8-be25-655f225a919e)
+
 
 
 
